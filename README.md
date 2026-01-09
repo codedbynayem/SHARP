@@ -1,5 +1,5 @@
 # SHARP
-Spatial Heatmap Analysis of Residence-time Probability pipeline.
+Spatial Heatmap Analysis of Residence-time Probability pipeline. Please refer to the "SHARP_Documentation.docx" file for detailed instructions on how to use SHARP. All software dependencies and operating systems are listed there. Please also note that you will need to run STRAP first in order for SHARP to work. 
 
 If you use this code in your research, please follow the guidelines below:
 
