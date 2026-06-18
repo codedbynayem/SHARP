@@ -3,7 +3,7 @@ Spatial Heatmap Analysis of Residence-time Probability pipeline. Please refer to
 
 If you use this code in your research, please follow the guidelines below:
 
-Citation: Please cite the following manuscript (once published): Haque, N., et al. Title. Journal (2025). DOI (TBD)
+Citation: Please cite the following manuscript (once published): Haque, N., et al. Single-molecule imaging reveals RNA polymerase II dynamics and TAF1-dependent promoter-proximal pause release. Nature Communications. 2026. doi: 10.1038/s41467-026-74726-1
 
 Acknowledgment: If the pipeline is used in a supporting role (e.g., for figure generation, data processing, or presentation), please include the following in the Acknowledgments section: "We thank Nayem Haque & Robert Coleman for providing the single-molecule imaging analysis pipeline used in this work."
 
